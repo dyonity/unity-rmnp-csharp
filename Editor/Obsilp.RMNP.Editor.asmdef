@@ -1,0 +1,12 @@
+{
+    "name": "Obsilp.RMNP.Editor",
+    "references": [
+        "Obsilp.RMNP"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

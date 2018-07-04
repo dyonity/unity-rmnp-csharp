@@ -1,0 +1,3 @@
+[submodule "Runtime/rmnp-csharp"]
+	path = Runtime/rmnp-csharp
+	url = https://github.com/obsilp/rmnp-csharp
